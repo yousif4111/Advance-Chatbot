@@ -11,10 +11,12 @@
 
 ## Problem Statment
 
-- 🚫 **Difficulity in Information Access:** With a huge amount of information from reports, news, chats, and all kinds of written documents, answering simple questions that can be pinpointed in a specific document becomes a challenging task. It requires deep diving into the material to find that information.
+- 🚫❌ **Difficulity in Information Access:** With a huge amount of information from reports, news, chats, and all kinds of written documents, answering simple questions that can be pinpointed in a specific document becomes a challenging task. It requires deep diving into the material to find that information.
 
+
+## Solution
   
-- ❌ **Lack of Swift and Accurate Responses:** Existing communication channels fail to provide rapid and precise answers to queries from diverse departments, resulting in information bottlenecks and inconsistencies in data retrieval.
+- ✔:book: **Lack of Swift and Accurate Responses:** Existing communication channels fail to provide rapid and precise answers to queries from diverse departments, resulting in information bottlenecks and inconsistencies in data retrieval.
 
 
 ## Methadology
