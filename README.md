@@ -16,22 +16,11 @@
 
 ## Solution
   
-- ✔:book: **Lack of Swift and Accurate Responses:** Existing communication channels fail to provide rapid and precise answers to queries from diverse departments, resulting in information bottlenecks and inconsistencies in data retrieval.
+- ✔📋  **LLM and RAG:** Developing a retrieval system that can match questions to quickly find the related documents containing the answers, and then using a large language model (LLM) to present the answers in a comprehensible manner for the user.
 
 
-## Methadology
+## 💻Methadology and 🌐Architecture
   
-- 🌐 **Revolutionizing Stakeholder Engagement:** The project aims to develop an advanced domain-specific chatbot powered by Large Language Models (LLMs), integrating a specialized knowledge base housing department-specific documents.
-
-  
-- 💻 **Hybrid Hosting Approach:** Utilizing a hybrid hosting approach—leveraging local GPU units and cloud hosting—along with integrating APIs from OpenAI and Hugging Face to create a versatile and accurate response system.
-
-  
-- 🚀 **Enhanced Organizational Efficiency:** This innovative solution targets the enhancement of organizational efficiency by offering a reliable, centralized resource for quick and accurate access to departmental insights, fostering improved decision-making processes and expediting information flow across the organization.
-
-  
-## Example: architecture fianacial app 
-
 ![WhatsApp Image 2023-11-25 at 2 10 32 PM](https://github.com/yousif4111/Advance-Chatbot/assets/46527978/27f4f6e5-0d2f-4bbf-b10c-dda92d82adaf)
 
 
