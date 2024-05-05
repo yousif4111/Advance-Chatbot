@@ -14,9 +14,13 @@
 - 🚫❌ **Difficulity in Information Access:** With a huge amount of information from reports, news, chats, and all kinds of written documents, answering simple questions that can be pinpointed in a specific document becomes a challenging task. It requires deep diving into the material to find that information.
 
 
+
+
 ## Solution
   
 - ✔📋  **LLM and RAG:** Developing a retrieval system that can match questions to quickly find the related documents containing the answers, and then using a large language model (LLM) to present the answers in a comprehensible manner for the user.
+
+
 
 
 ## 💻Methadology and 🌐Architecture ( fiancial news feed )
