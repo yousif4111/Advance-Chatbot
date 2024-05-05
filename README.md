@@ -19,7 +19,7 @@
 - ✔📋  **LLM and RAG:** Developing a retrieval system that can match questions to quickly find the related documents containing the answers, and then using a large language model (LLM) to present the answers in a comprehensible manner for the user.
 
 
-## 💻Methadology and 🌐Architecture
+## 💻Methadology and 🌐Architecture ( fiancial news feed )
   
 ![WhatsApp Image 2023-11-25 at 2 10 32 PM](https://github.com/yousif4111/Advance-Chatbot/assets/46527978/27f4f6e5-0d2f-4bbf-b10c-dda92d82adaf)
 
