@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+**Note**:This is a hypothetical example of the problem I solved for one of Saal's clients by applying the same methodology.
 
 
 
